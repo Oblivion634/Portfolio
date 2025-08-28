@@ -18,6 +18,7 @@ A modern and responsive **personal portfolio website** built with **React + Vite
 - **Deployment:** Netlify 
 
 ## 📂 Project Structure
+```bash
 portfolio/
 ├── public/ # Static assets
 ├── src/
@@ -28,7 +29,7 @@ portfolio/
 │ └── styles/ # Global styles
 ├── package.json
 └── vite.config.js
-
+```
 
 ## 🚀 Getting Started
 
@@ -46,11 +47,11 @@ npm install
 
 # Start development server
 npm run dev
-
+```
 📸 Preview
 
 🌍 Live Demo
-👉 Visit My Portfolio
+👉 [Visit My Portfolio](https://shalinisingh06portfolio.netlify.app)
 
 💡 This portfolio is a continuous work in progress, showcasing my journey as a developer.
 
