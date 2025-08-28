@@ -18,6 +18,7 @@ A modern and responsive **personal portfolio website** built with **React + Vite
 - **Deployment:** Netlify 
 
 ## 📂 Project Structure
+```bash
 portfolio/
 ├── public/ # Static assets
 ├── src/
@@ -28,6 +29,7 @@ portfolio/
 │ └── styles/ # Global styles
 ├── package.json
 └── vite.config.js
+```
 
 
 ## 🚀 Getting Started
@@ -46,7 +48,7 @@ npm install
 
 # Start development server
 npm run dev
-
+```
 📸 Preview
 
 🌍 Live Demo
