@@ -80,6 +80,6 @@ node server.js
 </p>
 
 🌍 Live Demo
-👉 Visit My Portfolio
+👉 Visit My Portfolio[https://shalinisingh06portfolio.netlify.app/]
 
 💡 This portfolio is a continuous work in progress, showcasing my journey as a developer.
