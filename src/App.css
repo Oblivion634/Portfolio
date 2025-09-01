@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Lato", sans-serif;
+}
+
+html, body {
+  overflow-x: hidden;
+}
